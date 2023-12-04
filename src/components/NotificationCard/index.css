@@ -1,0 +1,24 @@
+.notification-root {
+    box-shadow: 0px 0.699999988079071px 0.699999988079071px 0px #0000000A;
+    box-shadow: 0px 2.799999952316284px 7px 0px #0000000A;
+    height: 172px;
+    width: 190px;
+    border-radius: 10px;
+    padding: 14px;
+    background-color: #FFFFFF;
+    color: #000;
+}
+
+.notification-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.save {
+    font-family: Inter;
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 11px;
+    letter-spacing: 0px;
+    text-align: right;
+}

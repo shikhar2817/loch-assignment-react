@@ -1,0 +1,36 @@
+.testimonial-root {
+    width: max-content;
+    max-width: 500px;
+    height: 136px;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #FFF;
+    color: #000;
+}
+
+.testimonal-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.testimonal-header h3 {
+    font-weight: 600;
+}
+
+.testimonal-header h5 {
+    font-size: 0.8rem;
+    color: rgba(150, 151, 154, 1)
+}
+
+.testimonial-text {
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 41, 1)
+}
